@@ -101,3 +101,77 @@ header{
     color: #303030;
     font-size: 20px;
 }
+
+/* Benefits Style*/
+
+#benefits h4{
+    font-size: 36px;
+}
+
+#benefits p{
+    color: #303030;
+    font-size: 20px;
+}
+
+/* Donation Style*/
+
+#donation{
+    background-color: #F6F6F6;
+}
+
+#donation h4{
+    font-size: 36px;
+}
+
+#donation p{
+    color: #303030;
+    font-size: 20px;
+}
+
+/* Adoption Style*/
+
+#adoption{
+    background-color: #AAD7D9;
+}
+
+#adoption h4{
+    font-size: 36px;
+}
+
+#adoption p{
+    color: #303030;
+    font-size: 20px;
+}
+
+#adoption button{
+    padding: 7px 12px;
+    background-color: #F5F5F5;
+    color: #48A7A7;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+/* Contacts Style*/
+
+#contacts{
+    background-color: #F6F6F6;
+}
+
+#contacts h4{
+    font-size: 36px;
+}
+
+#contacts p{
+    color: #303030;
+    font-size: 20px;
+}
+
+/* Footer Style*/
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #48A7A7;
+    font-size: 20px;
+}
