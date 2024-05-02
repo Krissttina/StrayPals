@@ -56,14 +56,14 @@ header{
 }
 
 #intro h1{
-    color: #0f0f0f;
-    font-size: 64px;
+    color: #0A0A0A;
+    font-size: 48px;
 }
 
 #intro h3{
-    color: #0f0f0f;
+    color: #303030;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 #intro button{
@@ -71,26 +71,27 @@ header{
     background-color: #48A7A7;
     color: #F5F5F5;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     font-weight: 600;
 }
 
 /* About Us Style*/
 
-#bio{
+#about-us{
     background-color: #AAD7D9;
 }
 
-#bio h4{
-    font-size: 36px;
+#about-us h4{
+    color: #0A0A0A;
+    font-size: 25px;
 }
 
-#bio p{
+#about-us p{
     color: #303030;
-    font-size: 20px;
+    font-size: 16px;
 }
 
-#bio ul{
+#about-us ul{
     list-style-type: none;
     text-decoration: none;
 }
@@ -102,12 +103,13 @@ header{
 }
 
 #provision h4{
-    font-size: 36px;
+    color: #0A0A0A;
+    font-size: 25px;
 }
 
 #provision p{
     color: #303030;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 /* Achievments Style*/
@@ -117,23 +119,25 @@ header{
 }
 
 #achievments h4{
-    font-size: 36px;
+    color: #0A0A0A;
+    font-size: 25px;
 }
 
 #achievments p{
     color: #303030;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 /* Benefits Style*/
 
 #benefits h4{
-    font-size: 36px;
+    color: #0A0A0A;
+    font-size: 25px;
 }
 
 #benefits p{
-    color: #303030;
-    font-size: 20px;
+    color: #050505;
+    font-size: 16px;
 }
 
 /* Donation Style*/
@@ -143,7 +147,8 @@ header{
 }
 
 #donation h4{
-    font-size: 36px;
+    color: #050505;
+    font-size: 26px;
 }
 
 #donation p{
@@ -158,12 +163,13 @@ header{
 }
 
 #adoption h4{
-    font-size: 36px;
+    color: #050505;
+    font-size: 25px;
 }
 
 #adoption p{
     color: #303030;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 #adoption button{
@@ -182,12 +188,13 @@ header{
 }
 
 #contacts h4{
-    font-size: 36px;
+    color: #050505;
+    font-size: 25px;
 }
 
 #contacts p{
     color: #303030;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 /* Footer Style*/
