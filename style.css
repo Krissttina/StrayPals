@@ -12,19 +12,42 @@ html{
 
 header{
     background: #FCFCFC;
-    box-shadow: 0px 2px 15.8px 0px rgba(153,153,153,1);
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 1px 10px 1px rgba(0, 0, 0, 0.1)
 }
 
 /* Style the topnav links */
 
-#nav{
+ #nav{
+    display: flex;
+    padding: 15px 0;
+    justify-content: center;
+    font-weight: bold;
+    cursor: pointer;
+    color: #0A0A0A
+}
+
+#navbar{
     display: flex;
     list-style-type: none;
-    justify-content: center;
     font-weight: bold;
     cursor: pointer;
     font-size: 20px;
 }
+
+#navbar a:link{
+    text-decoration: none;
+}
+
+#navbar a{
+    color: #0A0A0A;
+
+}
+
+#navbar li{
+    padding: 0 35px;
+} 
 
 /* Style background header part */
 
