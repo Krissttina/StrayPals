@@ -55,6 +55,10 @@ header{
     background-color: #F6F6F6;
 }
 
+#intro div{
+    padding: 30px 150px;
+}
+
 #intro h1{
     color: #0A0A0A;
     font-size: 48px;
@@ -67,7 +71,7 @@ header{
 }
 
 #intro button{
-    padding: 7px 12px;
+    padding: 7px 20px;
     background-color: #48A7A7;
     color: #F5F5F5;
     border: none;
@@ -79,6 +83,10 @@ header{
 
 #about-us{
     background-color: #AAD7D9;
+}
+
+#about-us #text{
+    padding: 30px 100px;
 }
 
 #about-us h4{
@@ -99,6 +107,8 @@ header{
 /* Provision Style*/
 
 #provision{
+    padding: 30px 100px;
+
     background-color: #FEFEFE;
 }
 
@@ -173,7 +183,7 @@ header{
 }
 
 #adoption button{
-    padding: 7px 12px;
+    padding: 7px 20px;
     background-color: #F5F5F5;
     color: #48A7A7;
     border: 1px solid grey;
