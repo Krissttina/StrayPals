@@ -132,7 +132,7 @@ header{
 
 #provision{
     padding: 30px 100px;
-
+    text-align: center;
     background-color: #FEFEFE;
 }
 
@@ -162,6 +162,17 @@ header{
     border: 1px solid grey;
     background: aliceblue;
     border-radius: 10px;
+}
+
+.card img{
+    max-width: 50px;
+    min-width: 20px;
+}
+
+.card h5{
+    padding: 10px 0;
+    font-size: 24px;
+    font-weight: 600;
 }
 
 /* Achievments Style*/
