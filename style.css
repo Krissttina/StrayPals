@@ -94,6 +94,7 @@ header{
 /* About Us Style*/
 
 #about-us{
+    display: flex;
     background-color: #AAD7D9;
 }
 
@@ -152,6 +153,10 @@ header{
 
 /* Benefits Style*/
 
+#benefits{
+    display: flex;
+}
+
 #benefits h4{
     color: #0A0A0A;
     font-size: 25px;
@@ -181,6 +186,8 @@ header{
 /* Adoption Style*/
 
 #adoption{
+    display: flex;
+    padding: 40px 80px;
     background-color: #AAD7D9;
 }
 
@@ -190,23 +197,37 @@ header{
 }
 
 #adoption p{
+    padding: 20px 0;
     color: #303030;
     font-size: 16px;
 }
 
 #adoption button{
-    padding: 7px 20px;
+    padding: 10px 30px;
     background-color: #F5F5F5;
     color: #48A7A7;
-    border: 1px solid grey;
+    border: none;
     border-radius: 5px;
     font-weight: 600;
+}
+
+#adoption button:hover{
+    background-color: #ededed;
+    cursor: pointer;
 }
 
 /* Contacts Style*/
 
 #contacts{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
     background-color: #F6F6F6;
+}
+
+#contacts ul{
+    padding: 0 50px;
+    list-style-type: none
 }
 
 #contacts h4{
