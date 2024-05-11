@@ -50,13 +50,17 @@ header{
 } 
 
 /* Style background header part */
+#header{
+    display: flex;
+    align-items: center;
+}
 
 #intro{
     background-color: #F6F6F6;
 }
 
 #intro div{
-    padding: 30px 150px;
+    padding: 30px 100px;
 }
 
 #intro h1{
@@ -65,19 +69,27 @@ header{
 }
 
 #intro h3{
+    padding: 20px 0;
     color: #303030;
     font-weight: 400;
     font-size: 20px;
 }
 
 #intro button{
-    padding: 7px 20px;
+    padding: 10px 30px;
     background-color: #48A7A7;
     color: #F5F5F5;
     border: none;
     border-radius: 8px;
     font-weight: 600;
 }
+
+#intro button:hover{
+    background-color: #3b9898;
+    cursor: pointer;
+}
+
+
 
 /* About Us Style*/
 
