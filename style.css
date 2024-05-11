@@ -207,6 +207,11 @@ header{
     font-size: 16px;
 }
 
+.social{
+    height: 20px;
+    width: 20px;
+}
+
 /* Footer Style*/
 
 footer{
