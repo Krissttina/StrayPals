@@ -179,6 +179,8 @@ header{
 
 #achievments{
     background-color: #AAD7D9;
+    text-align: center;
+    padding: 10px;
 }
 
 #achievments h4{
@@ -191,10 +193,29 @@ header{
     font-size: 16px;
 }
 
+.boxes{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.box{
+    display: flex;
+    background-color: aliceblue;
+    flex-direction: column;
+    border: 1px solid grey;
+    justify-content: center;
+    border-radius: 8px;
+    width: 200px;
+    height: 70px;
+    margin: 0 50px;
+}
+
 /* Benefits Style*/
 
 #benefits{
     display: flex;
+    padding: 70px;
 }
 
 #benefits h4{
@@ -205,6 +226,16 @@ header{
 #benefits p{
     color: #050505;
     font-size: 16px;
+}
+
+
+
+#blue{
+    border-radius: 5px;
+    max-width: 400px;
+    max-height: 600px;
+    min-width: 100px;
+    min-height: 200px;
 }
 
 /* Donation Style*/
@@ -254,6 +285,11 @@ header{
 #adoption button:hover{
     background-color: #ededed;
     cursor: pointer;
+}
+
+#retiver-cat{
+    max-width: 500px;
+    min-width: 200px;
 }
 
 /* Contacts Style*/
