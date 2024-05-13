@@ -34,6 +34,7 @@ header{
     font-weight: bold;
     cursor: pointer;
     font-size: 20px;
+    font-family: "Poppins", sans-serif;
 }
 
 #navbar a:link{
@@ -66,6 +67,7 @@ header{
 #intro h1{
     color: #0A0A0A;
     font-size: 48px;
+    font-family: "Permanent marker", sans-serif;
 }
 
 #intro h3{
@@ -73,6 +75,7 @@ header{
     color: #303030;
     font-weight: 400;
     font-size: 20px;
+    font-family: "Poppins", sans-serif;
 }
 
 #intro button{
@@ -82,6 +85,7 @@ header{
     border: none;
     border-radius: 8px;
     font-weight: 600;
+    font-family: "Poppins", sans-serif;
 }
 
 #intro button:hover{
@@ -107,6 +111,7 @@ header{
 }
 
 #about-us h4{
+    font-family: "Permanent marker", sans-serif;
     color: #0A0A0A;
     font-size: 25px;
 }
@@ -115,6 +120,7 @@ header{
     padding: 20px 0;
     color: #303030;
     font-size: 16px;
+    font-family: "Pavanam", sans-serif;
 }
 
 #about-us ul{
@@ -137,6 +143,7 @@ header{
 }
 
 #provision h4{
+    font-family: "Permanent marker", sans-serif;
     color: #0A0A0A;
     font-size: 25px;
 }
@@ -144,6 +151,7 @@ header{
 #provision p{
     color: #303030;
     font-size: 17px;
+    font-family: "Poppins", sans-serif;
 }
 
 #cards{
@@ -173,6 +181,7 @@ header{
     padding: 10px 0;
     font-size: 24px;
     font-weight: 600;
+    font-family: "Poppins", sans-serif;
 }
 
 /* Achievments Style*/
@@ -184,6 +193,7 @@ header{
 }
 
 #achievments h4{
+    font-family: "Permanent marker", sans-serif;
     color: #0A0A0A;
     font-size: 25px;
 }
@@ -191,6 +201,7 @@ header{
 #achievments p{
     color: #303030;
     font-size: 16px;
+    font-family: "Poppins", sans-serif;
 }
 
 .boxes{
@@ -220,6 +231,7 @@ header{
 }
 
 #benefits h4{
+    font-family: "Permanent marker", sans-serif;
     color: #0A0A0A;
     font-size: 25px;
 }
@@ -227,8 +239,8 @@ header{
 #benefits p{
     color: #303030;
     font-size: 16px;
+    font-family: "Pavanam", sans-serif;
 }
-
 
 
 #blue{
@@ -246,6 +258,7 @@ header{
 }
 
 #donation h4{
+    font-family: "Permanent marker", sans-serif;
     color: #303030;
     font-size: 26px;
 }
@@ -253,6 +266,7 @@ header{
 #donation p{
     color: #303030;
     font-size: 20px;
+    font-family: "Pavanam", sans-serif;
 }
 
 /* Adoption Style*/
@@ -264,6 +278,7 @@ header{
 }
 
 #adoption h4{
+    font-family: "Permanent marker", sans-serif;
     color: #303030;
     font-size: 25px;
 }
@@ -272,6 +287,7 @@ header{
     padding: 20px 0;
     color: #303030;
     font-size: 16px;
+    font-family: "Pavanam", sans-serif;
 }
 
 #adoption button{
@@ -281,6 +297,7 @@ header{
     border: none;
     border-radius: 8px;
     font-weight: 600;
+    font-family: "Poppins", sans-serif;
 }
 
 #adoption button:hover{
@@ -309,6 +326,7 @@ header{
 }
 
 #contacts h4{
+    font-family: "Permanent marker", sans-serif;
     color: #303030;
     font-size: 25px;
 }
@@ -316,6 +334,7 @@ header{
 #contacts p{
     color: #303030;
     font-size: 16px;
+    font-family: "Pavanam", sans-serif;
 }
 
 .social{
@@ -327,6 +346,7 @@ header{
 
 footer{
     display: flex;
+    font-family: "Permanent marker", sans-serif;
     justify-content: center;
     background-color: #48A7A7;
     font-size: 20px;
