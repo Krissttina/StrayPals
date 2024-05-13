@@ -78,7 +78,7 @@ header{
 #intro button{
     padding: 10px 30px;
     background-color: #48A7A7;
-    color: #F5F5F5;
+    color: #F6F6F6;
     border: none;
     border-radius: 8px;
     font-weight: 600;
@@ -123,7 +123,7 @@ header{
 }
 
 #two-pets{
-    border-radius: 8px;
+    border-radius: 10px;
     max-width: 500px;
     min-width: 400px;
 }
@@ -133,7 +133,7 @@ header{
 #provision{
     padding: 30px 100px;
     text-align: center;
-    background-color: #FEFEFE;
+    background-color: #FCFCFC;
 }
 
 #provision h4{
@@ -159,9 +159,9 @@ header{
     align-items: center;
     margin: 0 50px;
     padding: 20px;
-    border: 1px solid grey;
-    background: aliceblue;
+    background: #F6F6F6;
     border-radius: 10px;
+    box-shadow: 0px 3px 6px 2px rgba(0,0,0,0.1);
 }
 
 .card img{
@@ -201,9 +201,10 @@ header{
 
 .box{
     display: flex;
-    background-color: aliceblue;
+    background: #F6F6F6;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px 2px rgba(0,0,0,0.1);
     flex-direction: column;
-    border: 1px solid grey;
     justify-content: center;
     border-radius: 8px;
     width: 200px;
@@ -224,14 +225,14 @@ header{
 }
 
 #benefits p{
-    color: #050505;
+    color: #303030;
     font-size: 16px;
 }
 
 
 
 #blue{
-    border-radius: 5px;
+    border-radius: 10px;
     max-width: 400px;
     max-height: 600px;
     min-width: 100px;
@@ -245,7 +246,7 @@ header{
 }
 
 #donation h4{
-    color: #050505;
+    color: #303030;
     font-size: 26px;
 }
 
@@ -263,7 +264,7 @@ header{
 }
 
 #adoption h4{
-    color: #050505;
+    color: #303030;
     font-size: 25px;
 }
 
@@ -278,7 +279,7 @@ header{
     background-color: #F5F5F5;
     color: #48A7A7;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     font-weight: 600;
 }
 
@@ -288,6 +289,7 @@ header{
 }
 
 #retiver-cat{
+    border-radius: 10px;
     max-width: 500px;
     min-width: 200px;
 }
@@ -307,7 +309,7 @@ header{
 }
 
 #contacts h4{
-    color: #050505;
+    color: #303030;
     font-size: 25px;
 }
 
