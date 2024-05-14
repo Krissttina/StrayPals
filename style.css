@@ -6,6 +6,7 @@ html{
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* Style of the nav background*/
@@ -381,3 +382,23 @@ footer{
       transform: scaleX(1);
     }
   } */
+
+  /*Responsive pard*/
+
+/*media queries*/
+
+@media(max-width:991px){
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 100%; /* Full width on screens smaller than 768px */
+    }
+}
