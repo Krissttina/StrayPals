@@ -102,8 +102,12 @@ header{
 /* About Us Style*/
 
 #about-us{
+<<<<<<< Updated upstream
     display: flex;
     padding: 100px;
+=======
+
+>>>>>>> Stashed changes
     background-color: #AAD7D9;
 }
 
@@ -265,9 +269,14 @@ header{
 }
 
 #donation h4{
+<<<<<<< Updated upstream
     font-family: "Permanent marker", sans-serif;
     color: #303030;
     font-size: 26px;
+=======
+    color: #050505;
+    font-size: 30px;
+>>>>>>> Stashed changes
 }
 
 #donation p{
@@ -282,12 +291,18 @@ header{
     display: flex;
     padding: 40px 80px;
     background-color: #AAD7D9;
+    
 }
 
 #adoption h4{
+<<<<<<< Updated upstream
     font-family: "Permanent marker", sans-serif;
     color: #303030;
     font-size: 25px;
+=======
+    color: #050505;
+    font-size: 30px;
+>>>>>>> Stashed changes
 }
 
 #adoption p{
@@ -321,9 +336,13 @@ header{
 /* Contacts Style*/
 
 #contacts{
+<<<<<<< Updated upstream
     display: flex;
     justify-content: space-between;
     padding: 20px 50px;
+=======
+    padding: 30px 100px;
+>>>>>>> Stashed changes
     background-color: #F6F6F6;
 }
 
@@ -352,6 +371,7 @@ header{
 /* Footer Style*/
 
 footer{
+    padding: 30px;
     display: flex;
     font-family: "Permanent marker", sans-serif;
     justify-content: center;
